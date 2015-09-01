@@ -1,4 +1,4 @@
 # Bsc-Prgrmng-Trial
 trainee
 
-I'm just trying to use haskell as a newbie player
+I'm just trying to use haskell.
